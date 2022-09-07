@@ -9,7 +9,7 @@
 - <b>PowerShell</b>
   - [Pulling local User Accounts in Powershell](https://github.com/DelijahJ/Powershell)
 - <b>C++</b>
-  - [Tables](https://github.com/DelijahJ/Tables)
+  - [Computer Science 1](https://github.com/DelijahJ/Tables)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 <h2>📃 Certifications:</h2>

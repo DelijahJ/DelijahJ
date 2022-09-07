@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Java</b>
-  - [Intro to computer science](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [AP Computer Science A (Java)](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Bash</b>
   - [Linux Scripting and administration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>

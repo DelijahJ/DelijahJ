@@ -3,11 +3,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Java</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Intro to computer science](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Bash</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Linux Scripting and administration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
-  - [Pulling local User Accounts in Powershell](https://github.com/DelijahJ/Powershell)
+  - [Cyber Vulnerability Assesment/ Hunter](https://github.com/DelijahJ/Powershell)
 - <b>C++</b>
   - [Computer Science 1](https://github.com/DelijahJ/Tables)
 - <b>Python</b>

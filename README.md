@@ -11,7 +11,8 @@
 - <b>C++</b>
   - [Computer Science 1](https://github.com/DelijahJ/Tables)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Advanced Scientific Programming](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  
 <h2>📃 Certifications:</h2>
 
   - [CompTia Security+](https://www.credly.com/badges/857fadeb-b93a-4f0a-9327-b4c477a28059/public_url)

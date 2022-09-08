@@ -9,7 +9,7 @@
 - <b>PowerShell</b>
   - [Cyber Vulnerability Assesment/ Hunter](https://github.com/DelijahJ/Powershell)
 - <b>C++</b>
-  - [Computer Science 1](https://github.com/DelijahJ/Tables)
+  - [Computer Science 1](https://github.com/DelijahJ/ComputerScience_1)
 - <b>Python</b>
   - [Advanced Scientific Programming](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   

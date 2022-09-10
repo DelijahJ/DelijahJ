@@ -5,9 +5,9 @@
 - <b>Java</b>
   - [AP Computer Science A (Java)](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Bash</b>
-  - [Linux Scripting and administration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Linux Scripting and Administration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>PowerShell</b>
-  - [Cyber Vulnerability Assesment/ Hunter](https://github.com/DelijahJ/Powershell)
+  - [Cyber Vulnerability Assesment/Hunter](https://github.com/DelijahJ/Powershell)
 - <b>C++</b>
   - [Computer Science 1](https://github.com/DelijahJ/ComputerScience_1)
 - <b>Python</b>

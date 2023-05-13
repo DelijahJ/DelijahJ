@@ -8,7 +8,9 @@
   - [Computer Science 1](https://github.com/DelijahJ/ComputerScience_1)
 - <b>Python</b>
   - [Advanced Scientific Programming]()
-  - [Software Engineering](https://github.com/mdela359/travel_partner_2)
+ - <b>Software Engineering: Travel Partner</b>
+  - [Backend](https://github.com/mdela359/travel_partner_2)
+  - [Frontend](https://github.com/mdela359/travel_partner_2)
   
 <h2>📃 Certifications:</h2>
 

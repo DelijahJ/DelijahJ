@@ -18,12 +18,13 @@
   - [CompTia Security+](https://www.credly.com/badges/857fadeb-b93a-4f0a-9327-b4c477a28059/public_url)
   - [GIAC Certified Intrusion Analyst](https://www.credly.com/badges/857fadeb-b93a-4f0a-9327-b4c477a28059/public_url)
   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/857fadeb-b93a-4f0a-9327-b4c477a28059/public_url)
+  - [(ISC)² Candidate](https://www.credly.com/badges/d95acf8a-6a7a-4915-884a-f9bbdbdd7d28/public_url)
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="DelijahJoseph | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="DelijahJoseph | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="DelijahJoseph | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://https://twitter.com/DelijahJoseph
 [instagram]: https://https://www.instagram.com/delijah1/

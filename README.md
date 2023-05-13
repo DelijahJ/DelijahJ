@@ -3,15 +3,15 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Bash</b>
-  - [Linux Scripting and Administration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Linux Scripting and Administration]()
 - <b>C++</b>
   - [Computer Science 1](https://github.com/DelijahJ/ComputerScience_1)
 - <b>Java</b>
-  - [AP Computer Science A (Java)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [AP Computer Science A (Java)]()
 - <b>PowerShell</b>
   - [Cyber Vulnerability Assesment/Hunter](https://github.com/DelijahJ/Powershell)
 - <b>Python</b>
-  - [Advanced Scientific Programming](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Advanced Scientific Programming]()
   
 <h2>📃 Certifications:</h2>
 

@@ -9,8 +9,8 @@
 - <b>Python</b>
   - [Advanced Scientific Programming]()
  - <b>Software Engineering: Travel Partner</b>
-  - [Backend](https://github.com/mdela359/travel_partner_2)
-  - [Frontend](https://github.com/mdela359/travel_partner_2)
+   - [Backend](https://github.com/mdela359/travel_partner_2)
+   - [Frontend](https://github.com/venus-dv/travel-partner-frontend)
   
 <h2>📃 Certifications:</h2>
 

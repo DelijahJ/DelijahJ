@@ -6,10 +6,6 @@
   - [Linux Scripting and Administration]()
 - <b>C++</b>
   - [Computer Science 1](https://github.com/DelijahJ/ComputerScience_1)
-- <b>Java</b>
-  - [AP Computer Science A (Java)]()
-- <b>PowerShell</b>
-  - [Cyber Vulnerability Assesment/Hunter](https://github.com/DelijahJ/Powershell)
 - <b>Python</b>
   - [Advanced Scientific Programming]()
   

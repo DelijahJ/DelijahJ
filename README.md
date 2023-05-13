@@ -16,8 +16,8 @@
 <h2>📃 Certifications:</h2>
 
   - [CompTia Security+](https://www.credly.com/badges/857fadeb-b93a-4f0a-9327-b4c477a28059/public_url)
-  - [GIAC Certified Intrusion Analyst](https://www.credly.com/badges/857fadeb-b93a-4f0a-9327-b4c477a28059/public_url)
-  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/857fadeb-b93a-4f0a-9327-b4c477a28059/public_url)
+  - [GIAC Certified Intrusion Analyst](https://www.credly.com/badges/9faf8d9f-ac26-4d73-bd0f-8f8547249972/public_url)
+  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/1cda7ef6-75e5-4dc6-ae63-f4be02a9f08d/public_url)
   - [(ISC)² Candidate](https://www.credly.com/badges/d95acf8a-6a7a-4915-884a-f9bbdbdd7d28/public_url)
   
 <h2> 🤳 Connect with me:</h2>

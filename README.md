@@ -16,6 +16,8 @@
 <h2>📃 Certifications:</h2>
 
   - [CompTia Security+](https://www.credly.com/badges/857fadeb-b93a-4f0a-9327-b4c477a28059/public_url)
+  
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1cda7ef6-75e5-4dc6-ae63-f4be02a9f08d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <h2> 🤳 Connect with me:</h2>
 

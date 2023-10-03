@@ -2,6 +2,7 @@
 <!--
 <h2>👨‍💻 Projects:</h2>
 
+<!--
 - <b>Bash</b>
   - [Linux Scripting and Administration]()
 - <b>C++</b>
@@ -11,7 +12,7 @@
  - <b>Software Engineering: Travel Partner</b>
    - [Backend](https://github.com/mdela359/travel_partner_2)
    - [Frontend](https://github.com/venus-dv/travel-partner-frontend)
--->
+
 <h2>📃 Certifications:</h2>
 
   - [CompTia Security+](https://www.credly.com/badges/857fadeb-b93a-4f0a-9327-b4c477a28059/public_url)

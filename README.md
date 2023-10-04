@@ -2,14 +2,13 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-<!--
+
 - <b>Bash</b>
   - [Linux Scripting and Administration]()
 - <b>C++</b>
-  - [Computer Science 1](https://github.com/DelijahJ/ComputerScience_1)
+  - [Computer Science 1](https://github.com/DelijahJ/Cpp/tree/master)
 - <b>Python</b>
   - [Advanced Scientific Programming]()
-  -->
  - <b>Senior Software Engineering Project: Travel Partner</b>
    - [Travel App](https://github.com/venus-dv/travel-partner)
 

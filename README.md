@@ -4,7 +4,7 @@
 
 
 - <b>Bash</b>
-  - [Linux Scripting and Administration]()
+  - [Unix Scripting and Administration](https://github.com/DelijahJ/Bash/tree/main)
 - <b>C++</b>
   - [Computer Science 1](https://github.com/DelijahJ/Cpp/tree/master)
 - <b>Python</b>

@@ -8,7 +8,7 @@
 - <b>C++</b>
   - [Computer Science 1](https://github.com/DelijahJ/Cpp/tree/master)
 - <b>Python</b>
-  - [Advanced Scientific Programming]()
+  - [Advanced Scientific Programming](https://github.com/DelijahJ/Python)
  - <b>Senior Software Engineering Project: Travel Partner</b>
    - [Travel App](https://github.com/venus-dv/travel-partner)
 
